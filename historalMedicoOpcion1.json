@@ -1,0 +1,28 @@
+{
+    "Primer Nombre": "nombre 1",
+    "segundo Nombre": "nombre 2",
+    "Primer apellido": "apellido 1",
+    "segundo apellido": "apellido 2",
+    "identificacion": {
+        "tipo": "Cédula de Ciudadanía",
+        "numero": "123456789"
+    },
+    "fecha_nacimiento": "1985-05-12",
+    "eps": "Nombre eps",
+    "alergias_conocidas": [
+        "Alergia 1",
+        "alergia 2",
+        "alergia 3",
+        "alergia 4"
+    ],
+    "historial_visitas": [
+        {
+            "fecha_visita": "2022-01-09",
+            "motivo": "Motivo consulta 1"
+        },
+        {
+            "fecha_visita": "2023-03-09",
+            "motivo": "Motivo consulta 2"
+        }
+    ]
+}
